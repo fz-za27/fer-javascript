@@ -10,3 +10,4 @@ Pasos para subir a producción
 
 1. Ejecutar el comando `npm run build`
 2. Tomar la carpeta `dist` y desplegarla.
+3. Probar.
